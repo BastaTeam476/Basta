@@ -1,0 +1,2 @@
+# Development Status
+The project is currently in ACTIVE DEVELOPMENT, with a dedicated and collaborative team working on updates and improvements. The system's initial functionality and basic design are complete, but there are some suggested updates that may be made during the project lifecycle. The project welcomes community involvement and contributions, so everyone interested in our project can join us and participate. The project retains all planned features and improvements, and all implemented functions will be uploaded to the repository until the project is finished.
