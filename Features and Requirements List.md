@@ -1,4 +1,4 @@
-#Features and Requirements List#
+#Features and Requirements List
 
 
 For a quick overview of the software, we present a concise list of its features and prerequisites
