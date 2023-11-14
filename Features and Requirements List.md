@@ -6,8 +6,6 @@ For a quick overview of the software, we present a concise list of its features 
  Features overview :
  
 - An easy-to-use, minimalist editor You can insert dynamic blocks of content into the editor. It is completely open-source and extensible.
-
-- Both visitors and registered users can access all Picnic.
   
 - Users can easily book from the website.
 
